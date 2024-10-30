@@ -31,9 +31,9 @@ html {
 }
 
 .li-navbar {
-    font-size: 30px;
+    font-size: 170%;
     list-style-type: none;
-    padding: 20px;
+    padding: 10px;
     margin: 5px;
     color: aliceblue;
 }
@@ -51,6 +51,8 @@ html {
     transition: .2s; 
     transition-delay: .3s;
     border-radius: 8px;
+    padding: 10px;
+    margin: 5px;
 } 
 
 .li-navbar-about:hover {
